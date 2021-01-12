@@ -18,7 +18,7 @@ Model used:
 * <https://github.com/xiaoleihuang/Multilingual_Fairness_LREC> - Apache-2.0 License
 * <https://github.com/ZIZUN/korean-malicious-comments-dataset> - MIT License
 
-I simplified this problem to binary classification (hate/non-hate) because many datasets (including the biggest one) are labeled binary and labeling criteria are ambiguous.
+I simplified this problem to binary classification (hate/non-hate) because many datasets (including the biggest one) are labeled binary and labeling criteria are different.
 
 ## Stats
 
